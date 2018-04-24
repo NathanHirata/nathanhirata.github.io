@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css?family=Francois+One|Source+Sans+Pro');
+
+html {
+    height: 100%;
+}
+
+
+
+body {
+    background-image: url('wholeback.jpg');
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    background-color: white;
+    padding: 10px 20px 10px 20px;
+    margin-left: 100px;
+}
+
+a {
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: Francois One;
+    color: #e1e8ef;
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+a:hover {
+    background-color: #a8a8a8;
+    color: #f2ebde;
+}
+
+.navs {
+    background-color: #282828;
+    opacity: 0.66;
+}
+
+.container {
+    display: flex;
+    opacity: 0.9;
+}
+
+
+
+.column {
+    flex: 3;
+    text-align: left;
+    background-color: white;
+    margin-bottom: 100px;
+}
+
+
+#col-1 {
+    flex: 3;
+    text-align: left;
+}
+
+#col-2 {
+    padding-left: 50px;
+}
+
+h1 {
+    margin: 100px 0px 0px 0px;
+    font-family: Francois One;
+    background-color: #cccccc;
+    margin: 0;
+    text-align: left;
+    padding: 10px 0px 10px 80px;
+}
+
+
+
+.page2 {
+    width: 700px;
+    margin-left: 333px;
+    margin-top: 30px;
+}
+
+.container2 {
+    display: flex;
+    background-color: white;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+
+
+.column2 {
+    padding-left: 25px;
+    padding-top: 4px;
+    flex: 2;
+    text-align: left;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#col2 {
+    flex: 2;
+    text-align: left;
+}
+
+
+.divback {
+    background-image: url("portback.jpg");
+    background-size: cover;
+}
+
+.text {
+    opacity: 1;
+}
+
+.divback{
+    margin-top: 150px;
+}
+
+img{
+    margin-top: 40px;
+    border-radius: 30px;
+    vertical-align: middle;
+    align-self: center;
+    margin-left: 120px;
+}
+
+.pad{
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+#holder{
+    padding-left: 400px;
+    padding-top: 25px;
+}
+
+.boi{
+    margin-bottom: 0px;
+    margin-left: 350px;
+}
+
+.text2 {
+    opacity: 1;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+.war{
+    margin: 0px;
+    margin-right: 20px;
+}
+
+#war2{
+    margin-left: 20px;
+}
+
+.pad22{
+    margin-bottom: 0px;
+
+}
+
+.cont{
+    margin-bottom: 80px;
+}
+
+
+
+
